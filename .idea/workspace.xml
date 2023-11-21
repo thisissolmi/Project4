@@ -9,7 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70641f57-eb12-4bb0-b789-39dd0ff32239" name="Changes" comment="" />
+    <list default="true" id="70641f57-eb12-4bb0-b789-39dd0ff32239" name="Changes" comment="1121">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pro4_final/boardjspproject/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pro4_final/boardjspproject/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/pro4_final/dao/BoardDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/pro4_final/dao/BoardDAO.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -165,12 +169,25 @@
       <updated>1700186032360</updated>
       <workItem from="1700186033653" duration="454000" />
       <workItem from="1700528598373" duration="3948000" />
-      <workItem from="1700557961969" duration="4026000" />
+      <workItem from="1700557961969" duration="5693000" />
     </task>
+    <task id="LOCAL-00001" summary="1121">
+      <option name="closed" value="true" />
+      <created>1700571899280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700571899280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1121" />
+    <option name="LAST_COMMIT_MESSAGE" value="1121" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
